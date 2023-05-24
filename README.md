@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Selenium projects**
 
-- 🌱 I’m currently learning **React, AWS**
-
-- 🤝 I’m looking for help with **automation testing**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Java, Selenium, SQL**
 
