@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anirban</h1>
-<h3 align="center">Aspiring Frontend Developer, Gamer, Biker from India</h3>
+<h3 align="center">Aspiring Full-stack Developer</h3>
 
-- 🔭 I’m currently working on **my life**
+- 🔭 I’m currently working on **Javascript**
+- 👀 I’m interested in **Web Development**
+- 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning **JavaScript**
 
 
 
